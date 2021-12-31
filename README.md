@@ -11,9 +11,9 @@ Note: Plus ensure the attached "Interfaces.DLL" is used with this project. This 
 backwards compatible with Genie 3.5 and the newer open-source Genie currently under development.
 
 # Instructions
-Compile the project in Visual Basic and copy the "My_Genie_Template.dll" to the Plugins folder 
+Compile the project in Visual Basic and copy the "My_Genie_Template.dll" file to the Plugins folder 
 for Genie. 
 
-Alternatively, copy the provided "My_Genie_Template.dll" to the Plugins folder for Genie. 
+Alternatively, copy the provided "My_Genie_Template.dll" file to the Plugins folder for Genie. 
 
 # Note: This plug-in doesn't do anything, other than load in Genie and spawn a Genie Plug-in Window. 
