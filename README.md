@@ -1,5 +1,7 @@
 # Genie-Plugin-Template
 This is a generic Genie Plug-in for use with creating custom Plug-ins in Genie. 
+It is designed to have minimal functionality and can be used to build more 
+complex plug-ins. 
 
 I plan to add more instructions on how to use the Plug-In. For now, this repository 
 can be opened in Visual Basic (tested with VS Community 2019) and then compiled as a .DLL 
