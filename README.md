@@ -9,7 +9,7 @@ can be opened in Visual Basic (tested with VS Community 2019) and then compiled 
 This project is intended for learning purposes and to help people who would like to create 
 their own plug-ins for Genie. 
 
-Acknowledgements: I based this off of VTCifer's "EXP Tracker" Plug-in and Djordje's "Alternation 
+Acknowledgements: I based this off of VTCifer's "EXP Tracker" Plug-in and Djordje's "Alteration 
 Buddy" Plug-in. 
 
 Note: Plus ensure the attached "Interfaces.DLL" is used with this project. This will ensure it's
